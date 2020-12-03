@@ -1,2 +1,6 @@
-# assignment-plm
-Assignment for Producera och leverera mjukvara
+# Producera och leverera mjukvara
+
+Link till project: <https://pgbsnh19.github.io/course-producera-leverera/assignments/project>
+
+
+
